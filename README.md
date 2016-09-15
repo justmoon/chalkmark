@@ -1,13 +1,13 @@
-# chalkup
+# chalkmark
 
 > Markup for the console - convert HTML-like tags to ANSI escape sequences
 
 ## Usage
 
 ``` js
-const chalkup = require('chalkup')
+const chalkmark = require('chalkmark')
 
-console.log('<b>test?<b> <green>success</green>')
+console.log(chalkmark('<b>test?</b> <green>success</green>'))
 ```
 
 ## Available tags
