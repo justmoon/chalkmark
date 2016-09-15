@@ -10,6 +10,8 @@ const chalkmark = require('chalkmark')
 console.log(chalkmark('<b>test?</b> <green>success</green>'))
 ```
 
+![Example Screenshot with colored console output](docs/assets/screenshot.png)
+
 ## Available tags
 
 * **`b`** or **`bold`** &mdash; **bold** text
