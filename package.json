@@ -1,6 +1,6 @@
 {
   "name": "chalkmark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Markup for the console - convert HTML-like tags to ANSI escape sequences",
   "main": "dist/index.js",
   "typings": "dist/index",
